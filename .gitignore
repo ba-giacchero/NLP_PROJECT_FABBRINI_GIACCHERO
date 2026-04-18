@@ -1,0 +1,6 @@
+bert_poetry_outputs/
+.ipynb_checkpoints/
+*.pt
+*.bin
+*.safetensors
+*.pth
